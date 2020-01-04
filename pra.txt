@@ -7,4 +7,4 @@ git remotee add origin https://github.com/username/reporsitary -
 
 git push origin master - 원격 저장소에 반영
 war파일 압축후 톰켓으로 배포
-웹 프로젝트 기획서 작성
+웹 프로젝트 기획서 작성 후 배포 시작

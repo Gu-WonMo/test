@@ -1,7 +1,7 @@
 git init - git저장소 생성
 git add 파일명 - 임시저장소에 저장
-git commit -m "~" : 추가된 파일 커밋
-git status : 상태확인
+git commit -m "~" - 추가된 파일 커밋
+git status - 상태확인
 git remotee add origin https://github.com/username/reporsitary - 
 원격 저장소의 정보를 추가
 

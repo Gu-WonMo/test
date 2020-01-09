@@ -1,14 +1,13 @@
 git init - git저장소 생성
 git add 파일명 - 임시저장소에 저장
-git commit -m "~" - 추가된 파일 커밋
-git status - 상태확인
 git remotee add origin https://github.com/username/reporsitary - 
 원격 저장소의 정보를 추가
-
-clear - cmd화면 삭제
+git commit -m "~" - 추가된 파일 커밋
+git status - 상태확인
 
 git push origin master - 원격 저장소에 반영
+
+git pull origin 브런치면 --allow-unrelated-histories - push하는 경우 오류가 생길때 pull을 해줌
 war파일 압축후 톰켓으로 배포
 웹 프로젝트 기획서 작성 후 배포 시작
-
-desktop에서 추가하기
+7일까지 고용노동부 방문
